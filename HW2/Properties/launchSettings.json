@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "HW2": {
+      "commandName": "Project",
+      "commandLineArgs": "test.txt",
+      "workingDirectory": "D:\\Specialization5\\Off\\PRN212\\mainHW\\Week1-HW\\HW2"
+    }
+  }
+}
